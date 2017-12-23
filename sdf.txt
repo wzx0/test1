@@ -4,4 +4,8 @@ i love u
 and u?
 xkx
 dev0
+<<<<<<< HEAD
 master0
+=======
+fea0
+>>>>>>> fea0
